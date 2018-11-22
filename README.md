@@ -6,3 +6,6 @@ This OS will be full of tools for social engineering and stalking for finding in
 
 # Encryption methods
 The encryption on this OS will be the best that I can acquire. Hopefully strong enough to halt bruteforce methods etc. I'll be setting-up a wipe method to change all data on the drive to 0-1 in binary, to completely wipe the data. This ensures the privacy and data is deleted.
+
+# To note
+To all you fools out there thinking this is real, it's not. stfu
